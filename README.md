@@ -8,7 +8,7 @@ There are many articles discussing the impact of various primary key types in Po
 
 ## Benchmarks and Contributions
 
-This project benchmarks different primary key types by inserting a number of elements into the database and performing various selects and inserts, both with and without relations. The results are posted on the wiki page. Contributions to improve these benchmarks or the benchmarking script are highly welcome!
+This project benchmarks different primary key types by inserting a number of elements into the database and performing various selects and inserts, both with and without relations. The results are posted on the [wiki page](https://github.com/orlandohohmeier/pgpkbench/wiki/Benchmark-Results). Contributions to improve these benchmarks or the benchmarking script are highly welcome!
 
 Running the tests may take some time, but they are not resource-intensive, allowing you to run them in the background. There are likely other interesting benchmarks that can be conducted, so feel free to contribute new ideas and improvements.
 
